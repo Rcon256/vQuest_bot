@@ -1,0 +1,5 @@
+*.log
+*.ini
+log/
+__pycache__
+.state-save
